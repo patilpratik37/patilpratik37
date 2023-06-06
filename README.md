@@ -1,3 +1,4 @@
+![logo](https://github.com/patilpratik37/patilpratik37/blob/main/github_banner.gif)
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
